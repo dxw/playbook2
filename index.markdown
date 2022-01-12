@@ -4,11 +4,15 @@ title: dxw's Playbook
 ---
 ## Who we are
 
-* item 1 for testing
+* item 1 for testing via richtext
 * second item
 * and another thing
 
 dxw is an employee owned digital agency that works with the public and third sectors.
+
+- n-dash-marked list
+- created via markdown
+- to test what happens to it
 
 Since 2008, we’ve worked in partnership with our clients to improve people’s
 lives by designing, building, running, and improving digital public services. We
