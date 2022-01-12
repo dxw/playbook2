@@ -2,8 +2,11 @@
 layout: default
 title: dxw's Playbook
 ---
-
 ## Who we are
+
+* item 1 for testing
+* second item
+* and another thing
 
 dxw is an employee owned digital agency that works with the public and third sectors.
 
@@ -128,17 +131,17 @@ everything to ourselves.
 
 However, there are some things that we must keep private.
 
-- Our clients trust us to host content that is not public, like upcoming
+* Our clients trust us to host content that is not public, like upcoming
   announcements and discussions made as part of formulating new policy. This is
   not our information to be open about, and it's very important to keep it
   confidential.
-- We also hold some personal data about and/or on behalf of our clients. We
+* We also hold some personal data about and/or on behalf of our clients. We
   never share any of this data, including contact details. See also:
   [data protection](#data-protection).
-- We are sometimes sent documents that are
+* We are sometimes sent documents that are
   [protectively marked](#protective-marking-scheme), and we have a scheme of our
   own. Information in these documents is confidential.
-- Information about work that is currently being procured (whether we are
+* Information about work that is currently being procured (whether we are
   bidding or not) and any other information that could damage the commercial
   interests of a client or supplier
 
@@ -300,15 +303,13 @@ actively seek different perspectives, both inside and outside of dxw.
 To decide whether a potential project is ethical and supports our mission, we
 consider:
 
-- **Value**
+* **Value**
 
   The work is beneficial to the public, the client and dxw.
-
-- **Practicality**
+* **Practicality**
 
   We can produce a great result within the likely constraints.
-
-- **Culture**
+* **Culture**
 
   We can work together with the client, the users and other stakeholders in ways
   that support our [values](#our-values) and [principles](#our-principles).
@@ -353,13 +354,13 @@ way we qualify an opportunity.
 
 By the end of this meeting, we should make sure that we understand:
 
-- Who the client's users are
-- The user needs the client is trying to meet
-- Their current vision for how those needs will be met
-- Any notable technical requirements
-- What the project's budget and deadlines are
-- How many suppliers are likely to be bidding
-- When they need to receive our proposal by
+* Who the client's users are
+* The user needs the client is trying to meet
+* Their current vision for how those needs will be met
+* Any notable technical requirements
+* What the project's budget and deadlines are
+* How many suppliers are likely to be bidding
+* When they need to receive our proposal by
 
 This meeting usually involves quite a bit of discussion about the project. In
 those discussions, we speak freely and openly, offering advice where appropriate
@@ -387,16 +388,16 @@ other times we’ll have more flexibility on the format of our proposal.
 If we're writing a proposal following our own format, we often start from a
 proposal template. The main things we’ll often need to write are:
 
-- A description of the project's background. How did they get to the point
+* A description of the project's background. How did they get to the point
   they're at now?
-- A description of the client's vision. What are they trying to do?
-- An initial set of user needs. How does the client believe their service or
+* A description of the client's vision. What are they trying to do?
+* An initial set of user needs. How does the client believe their service or
   project will make things better for these people?
-- Details of how we’ll approach the work
-- A proposed team to do the work, their roles and profiles.
-- How many sprints we estimate we will need to deliver the work.
-- A timeline for when we expect the sprints and other work will happen.
-- A cost for the work.
+* Details of how we’ll approach the work
+* A proposed team to do the work, their roles and profiles.
+* How many sprints we estimate we will need to deliver the work.
+* A timeline for when we expect the sprints and other work will happen.
+* A cost for the work.
 
 There are lots of examples of these proposals that anyone at dxw can read if
 they like.
@@ -627,8 +628,8 @@ A user story is a succinct explanation of some work that will be done in order
 to meet the needs of a particular kind of user. They are usually structured into
 a sentence, of the form:
 
-> As a \[kind of user\], so that I can \[meet a need\], I want \[a feature in
-> the product\]
+> As a \[kind of user], so that I can \[meet a need], I want \[a feature in
+> the product]
 
 Breaking everything down into user stories allows us to be confident that
 everything we develop is meeting
@@ -665,20 +666,20 @@ There are several states that a story has to go through in order to be deployed
 to production. We use Trello and physical story boards to keep track of which
 stage a given story is in.
 
-- **In progress**: A developer has started working on the story, making changes
+* **In progress**: A developer has started working on the story, making changes
   to the product to ensure that each acceptance criterion is met
-- **Awaiting review**: The developer has finished the story and is ready for a
+* **Awaiting review**: The developer has finished the story and is ready for a
   second developer to review the technical aspects of the story in a pull
   request
-- **Code review**: The story is being reviewed by the second developer who
+* **Code review**: The story is being reviewed by the second developer who
   leaves feedback if the pull request is not ready to be merged and needs
   further work
-- **dxw/client review**: The two developers have finished the review and the
+* **dxw/client review**: The two developers have finished the review and the
   story has been merged and pushed to staging. It is ready for a delivery lead
   and the client to review against its acceptance criteria
-- **Accepted**: The client has accepted the story and it's ready to deploy to
+* **Accepted**: The client has accepted the story and it's ready to deploy to
   production
-- **Done**: The story has been deployed to production
+* **Done**: The story has been deployed to production
 
 #### Managing delivery
 
@@ -714,10 +715,10 @@ requests. All incidents and requests for us to fix a problem or make a change to
 a site we support come to us via Zendesk as a ticket. We use tickets to manage
 requests in order to:
 
-- keep track of all the things we need to do and what state they're in, for us
+* keep track of all the things we need to do and what state they're in, for us
   and our clients
-- have a record of the changes we're asked to make
-- ensure that we only accept change requests from people who are authorised
+* have a record of the changes we're asked to make
+* ensure that we only accept change requests from people who are authorised
 
 If a client asks us to do something via any other channel, we ask them to email
 the request to support@dxw.com, which opens a ticket in Zendesk, or open a
@@ -773,12 +774,12 @@ positive experience with us personally.
 
 In general:
 
-- we are personable, friendly, and helpful
-- if things look like they're going to get difficult or the client seems
+* we are personable, friendly, and helpful
+* if things look like they're going to get difficult or the client seems
   unhappy, we are honest and assume good faith
-- if we make a mistake, we take responsibility and apologise, and if the client
+* if we make a mistake, we take responsibility and apologise, and if the client
   seems very upset, we let the account manager know
-- if we do become annoyed or frustrated by a ticket, we come back to it later
+* if we do become annoyed or frustrated by a ticket, we come back to it later
 
 ##### Don't over-deliver
 
@@ -841,7 +842,7 @@ public-sector specific topic etc) you should use
 Introduce the company in full and what your role is.
 
 It takes time to prepare talks that work well. If you need help or advice please
-ask for it in the [#dxw-marketing](https://dxw.slack.com/archives/C0K5DRKU6)
+ask for it in the [\#dxw-marketing](https://dxw.slack.com/archives/C0K5DRKU6)
 channel on Slack.
 
 It’s also good to blog after the event, to share the content or to talk about
@@ -870,7 +871,7 @@ We record ideas for blog posts and the schedule for publishing on
 This is managed by the marketing team, who can offer you help and advice on
 ideas and support with writing if you need it. They will also manage the final
 sign off and publishing of posts. Get in touch through the
-[#dxw-marketing](https://dxw.slack.com/archives/C0K5DRKU6) channel on Slack.
+[\#dxw-marketing](https://dxw.slack.com/archives/C0K5DRKU6) channel on Slack.
 
 #### Twitter
 
@@ -986,14 +987,14 @@ everyone in the team, that’s half days or whole days.
 
 When reporting our time, we follow these guidelines:
 
-- If what was scheduled matches reality, simply confirm this time.
-- If you worked on a named project (client or internal including "dxw Support"),
+* If what was scheduled matches reality, simply confirm this time.
+* If you worked on a named project (client or internal including "dxw Support"),
   that differs from the schedule, record your time as that.
-- If you worked on something else, leave the time blank or zero out what you
+* If you worked on something else, leave the time blank or zero out what you
   were scheduled to work on.
-- If you were off sick or on leave, make sure this is recorded on BreatheHR and
+* If you were off sick or on leave, make sure this is recorded on BreatheHR and
   it should be automatically copied across to Productive.
-- If you were away due to a regular day off, as part of your working pattern,
+* If you were away due to a regular day off, as part of your working pattern,
   leave the time blank or zero out what you were scheduled to work on.
 
 If you’re not doing client work, then unless you’re working on one of a handful
@@ -1029,15 +1030,15 @@ Commercial Operations team and they’ll point you in the right direction.
 From time to time, some of us spend our own money at work. Most often, this is
 things like:
 
-- Train fares for unexpected travel
-- Refreshments purchased for meetings with clients
-- Stationery/materials, especially for workshops or events
+* Train fares for unexpected travel
+* Refreshments purchased for meetings with clients
+* Stationery/materials, especially for workshops or events
 
 dxw will always pay expenses which are:
 
-- **Necessary**: We only expense things we need in order to be able to complete
+* **Necessary**: We only expense things we need in order to be able to complete
   our work
-- **Proportionate**: The total expense should be proportionate to the work at
+* **Proportionate**: The total expense should be proportionate to the work at
   hand. In general, we try to avoid spending lots of money. For example, unless
   you have a good reason, don't get a cab to a meeting when you could get a
   train.
@@ -1061,7 +1062,7 @@ existing structure.
 #### Internal tech support
 
 If you experience problems with the office printers, wi-fi, video conference
-set-up, Macs etc… You may send a message in the **#help-techsupport** Slack
+set-up, Macs etc… You may send a message in the **\#help-techsupport** Slack
 channel.
 
 #### Using a personal device at work
@@ -1081,13 +1082,13 @@ password.
 Exactly what security measures are prudent may vary depending on the device and
 what you're using it for. Some good practice examples are:
 
-- Configuring screens to lock after a period of inactivity
-- Ensuring that work-related data on the device is regularly backed up
-- Encrypting storage
-- Using good passwords and changing defaults
-- Avoiding connecting devices to untrustworthy networks (internet cafes,
+* Configuring screens to lock after a period of inactivity
+* Ensuring that work-related data on the device is regularly backed up
+* Encrypting storage
+* Using good passwords and changing defaults
+* Avoiding connecting devices to untrustworthy networks (internet cafes,
   security conferences, unencrypted (open) wifi networks, etc)
-- Disposing of your device securely when you no longer need it
+* Disposing of your device securely when you no longer need it
 
 If you need to use a personal device but cannot take these sorts of measures,
 you should get permission first.
@@ -1108,11 +1109,11 @@ responsibility to keep that data safe, and process it in accordance with the
 
 In particular, we:
 
-- Only process personal data as part of work on the service that we're
+* Only process personal data as part of work on the service that we're
   contracted to provide to a client
-- Don't access personal data unless we need to in order to do our jobs: don't
+* Don't access personal data unless we need to in order to do our jobs: don't
   read people's personal data or private communications without good reason
-- We do not ever disclose people's personal data to anyone outside dxw unless
+* We do not ever disclose people's personal data to anyone outside dxw unless
   specifically instructed, and are satisfied that it is legal to do so
 
 If you have any questions about data protection, talk to the Data Protection
@@ -1125,15 +1126,15 @@ scheme so that everyone understands how to handle this material, and who they're
 allowed to disclose it to. All of the documents and data we hold will fall into
 one of the categories below.
 
-- **Management-in-Confidence**: internal documents whose circulation within dxw
+* **Management-in-Confidence**: internal documents whose circulation within dxw
   needs to be restricted.
-- **Company Confidential**: information owned by dxw which would be of value to
+* **Company Confidential**: information owned by dxw which would be of value to
   those outside the company, such as competitors, and whose loss or theft would
   potentially damage the company.
-- **Client Confidential** or **Commercial in Confidence**: information owned by
+* **Client Confidential** or **Commercial in Confidence**: information owned by
   dxw or its clients, which needs to remain confidential between dxw and the
   client.
-- **Unclassified**: information, which would not be of significant commercial
+* **Unclassified**: information, which would not be of significant commercial
   value to those outside dxw.
 
 Some of our clients also have protective marking schemes. For example, all
@@ -1159,14 +1160,16 @@ or external to dxw.
 
 This information:
 
-- Must be clearly labelled or described as "Management-in-confidence"
-- When printed
-  - Stored only in a locked container
-  - Transported only via courier, recorded delivery or personally by dxw staff
-  - Destroyed by cross-cut shredding when no longer required
-- When digital
-  - Stored in an encrypted format
-  - Communicated only when encrypted or via an encrypted connection, unless
+* Must be clearly labelled or described as "Management-in-confidence"
+* When printed
+
+  * Stored only in a locked container
+  * Transported only via courier, recorded delivery or personally by dxw staff
+  * Destroyed by cross-cut shredding when no longer required
+* When digital
+
+  * Stored in an encrypted format
+  * Communicated only when encrypted or via an encrypted connection, unless
     emailed from one dxw.com address to another
 
 ##### Company Confidential
@@ -1191,13 +1194,15 @@ falls into this category.
 
 This information:
 
-- Must be clearly labelled or described as "Client Confidential" or "Commercial
+* Must be clearly labelled or described as "Client Confidential" or "Commercial
   in Confidence"
-- When printed:
-  - Stored out of sight
-  - Destroyed by cross-cut shredding when no longer required
-- When digital:
-  - Stored in an encrypted format when on exchangeable media or a mobile device
+* When printed:
+
+  * Stored out of sight
+  * Destroyed by cross-cut shredding when no longer required
+* When digital:
+
+  * Stored in an encrypted format when on exchangeable media or a mobile device
 
 As a rule of thumb, label a document as Client Confidential if it mostly
 contains the client's confidential information, or Commercial in Confidence if
@@ -1244,17 +1249,17 @@ percentage will be set by the
 [CPI Index](https://www.ons.gov.uk/economy/inflationandpriceindices) as of 1st
 October each year.
 
-- The raise will be conditional upon the company meeting financial targets
+* The raise will be conditional upon the company meeting financial targets
   during the financial year ending in June.
-- If you have passed your probation, you will receive your raise in the October
+* If you have passed your probation, you will receive your raise in the October
   payroll.
-- For those team members who joined prior to 1st October of that year, but
+* For those team members who joined prior to 1st October of that year, but
   haven't yet passed probation, you will receive your raise in the month you
   successfully complete it and it will be the same percentage as of 1st October
   CPI that year.
-- If you joined on or after 1st October (that year), you will not be eligible
+* If you joined on or after 1st October (that year), you will not be eligible
   for a cost of living raise until the following October.
-- If you are leaving during October you will not receive the cost of living
+* If you are leaving during October you will not receive the cost of living
   raise.
 
 #### Pensions
@@ -1280,13 +1285,11 @@ If you want to take time off:
 
    This gives them a chance to manage any impact it might have on the wider team
    and the project.
-
-1. Request the holiday through BreatheHR
+2. Request the holiday through BreatheHR
 
    We use BreatheHR to track who's off and when, so we can plan for it. Your
    line manager can then see and approve your request.
-
-1. Add your holiday to your Google calendar
+3. Add your holiday to your Google calendar
 
    If someone is trying to find out where you are, or when you're available, the
    first thing they'll check is your calendar.
@@ -1408,11 +1411,11 @@ please discuss this with your line manager or our people manager.
 
 Within any rolling 12 month period, a person will receive:
 
-- full pay for the first 12 days of sickness absence
-- half pay (but no less than living wage) for the next 8 days of sickness
+* full pay for the first 12 days of sickness absence
+* half pay (but no less than living wage) for the next 8 days of sickness
   absence
-- real living wage for the next 10 days of sickness absence
-- statutory sick pay pay after 30 days of sickness absence
+* real living wage for the next 10 days of sickness absence
+* statutory sick pay pay after 30 days of sickness absence
 
 There'll be circumstances where we'll make exceptions, because it's not possible
 to write a policy that is fair in every situation. This structure will form our
@@ -1694,9 +1697,9 @@ your particular circumstances.
 If you’re eligible and you or your partner ends maternity or adoption leave and
 pay (or Maternity Allowance) early, then you can:
 
-- take the rest of the 50 weeks of maternity or adoption leave as Shared
+* take the rest of the 50 weeks of maternity or adoption leave as Shared
   Parental Leave (SPL)
-- take the rest of the 37 weeks of maternity or adoption pay (or Maternity
+* take the rest of the 37 weeks of maternity or adoption pay (or Maternity
   Allowance) as Statutory Shared Parental Pay (ShPP). ShPP is paid at the
   [current rate per week](https://www.gov.uk/shared-parental-leave-and-pay/what-youll-get)
   or 90% of your average weekly earnings, whichever is lower.
@@ -1748,7 +1751,7 @@ scheme with Busy Bees.
 
 The government has introduced new ways to help parents with childcare costs
 which you access directly:
-[https://www.gov.uk/get-tax-free-childcare](https://www.gov.uk/get-tax-free-childcare)
+<https://www.gov.uk/get-tax-free-childcare>
 
 For more information, please speak to the People Manager.
 
@@ -1819,11 +1822,11 @@ throughout the year.
 
 As a rough guide on how different patterns would impact your salary:
 
-- 7 weeks on, 1 week off: 90-95% FTE salary
-- 6 weeks on, 1 week off: 85-90% FTE salary
-- 5 weeks on, 1 week off: 85-90% FTE salary
-- 4 weeks on, 1 week off: 80-85% FTE salary
-- school term on, school holidays off: 70% FTE salary
+* 7 weeks on, 1 week off: 90-95% FTE salary
+* 6 weeks on, 1 week off: 85-90% FTE salary
+* 5 weeks on, 1 week off: 85-90% FTE salary
+* 4 weeks on, 1 week off: 80-85% FTE salary
+* school term on, school holidays off: 70% FTE salary
 
 We are happy to discuss the details and work out the best pattern for you.
 
@@ -1907,14 +1910,15 @@ if the matter is serious enough that a verbal warning is not appropriate, we may
 hold a disciplinary meeting at which you may be accompanied or represented by a
 colleague or trade union official. Following this meeting, we may:
 
-- Conclude that no misconduct has taken place, or that there is no poor
+* Conclude that no misconduct has taken place, or that there is no poor
   performance
-- Issue you with a written warning, which will explain:
-  - The nature of the misconduct or poor performance
-  - The change to your behaviour or performance that you need to make
-  - The time within which the change needs to be made
-  - The consequences of not making the change (for example, dismissal)
-- In cases of gross misconduct, dismiss you without notice
+* Issue you with a written warning, which will explain:
+
+  * The nature of the misconduct or poor performance
+  * The change to your behaviour or performance that you need to make
+  * The time within which the change needs to be made
+  * The consequences of not making the change (for example, dismissal)
+* In cases of gross misconduct, dismiss you without notice
 
 If you disagree with the outcome of this hearing, you may appeal against the
 decision. You must do this in writing. If you do so, your appeal and the
@@ -1963,10 +1967,10 @@ situation, everyone in the pool will be treated as being at risk and there will
 be a selection process. We will publish the selection criteria at the time,
 which may include any or all of the following:
 
-- A performance assessment
-- Any disciplinary issues having previously arisen
-- Adaptability to a new role or way of working
-- Attendance record
+* A performance assessment
+* Any disciplinary issues having previously arisen
+* Adaptability to a new role or way of working
+* Attendance record
 
 #### The process we’ll follow if we need to make redundancies
 
@@ -2069,25 +2073,25 @@ leads/line managers or that are specialist to the HR function in dxw.
 
 The list is not exhaustive but some topics might include:
 
-- Holiday
-- Sickness
-- Pay
-- Expenses
-- Parental Leave
-- Accessibility
-- Probation
-- Pensions
-- Occupational health issues
-- Contractual matters
-- Working patterns/locations
-- Training and career progression
-- Diversity
-- Inclusivity
-- Stress management
-- Interpersonal issues
-- Bereavement
-- Grievance and disciplinary matters
-- Facilitation/scheduling of conversations with Directors/heads-of, such as
+* Holiday
+* Sickness
+* Pay
+* Expenses
+* Parental Leave
+* Accessibility
+* Probation
+* Pensions
+* Occupational health issues
+* Contractual matters
+* Working patterns/locations
+* Training and career progression
+* Diversity
+* Inclusivity
+* Stress management
+* Interpersonal issues
+* Bereavement
+* Grievance and disciplinary matters
+* Facilitation/scheduling of conversations with Directors/heads-of, such as
   Salary Reviews
 
 Bookable slots are available on Wednesdays and Fridays at 11am but the People
@@ -2172,26 +2176,26 @@ Coming to your 1:1s with a list of things you’d like to discuss will help you
 make the most of the time. Some things you might find productive to talk about
 include:
 
-- **Your career and growth goals:** Don’t assume your manager knows all your
+* **Your career and growth goals:** Don’t assume your manager knows all your
   aspirations. Bring them up in your 1:1s. Your manager understands you won’t
   work for them forever and they want you to have a happy, fulfilling career —
   whatever that means to you. Tip: if you want to talk about your long-term
   goals but feel uneasy about it, ask your manager to do the same.
-- **Team improvement:** Have an idea that will help your team to work better?
+* **Team improvement:** Have an idea that will help your team to work better?
   Use your manager as a sounding board to help you refine and implement your
   suggestion.
-- **Self improvement:** Got a specific thing you’d like some help, coaching or
+* **Self improvement:** Got a specific thing you’d like some help, coaching or
   feedback on? A technical skill or a soft skill? Your 1:1 is the place to bring
   it up. Remember that you can use the 1:1s that fall between career progression
   reviews to discuss any of the proficiencies you’re currently trying to level
   up on.
-- **Personal issues:** Anything going on outside of work that’s affecting your
+* **Personal issues:** Anything going on outside of work that’s affecting your
   wellbeing? Physical or mental illness, bereavement, family issues, stress? The
   more you can tell your manager, the more they can try to help, and make
   accommodations for you at work.
-- **Interpersonal issues:** Having problems with a coworker? Your manager can
+* **Interpersonal issues:** Having problems with a coworker? Your manager can
   help mediate or coach you through how to deal with the issue.
-- **Retrospection:** If at any time you feel like your 1:1s aren’t particularly
+* **Retrospection:** If at any time you feel like your 1:1s aren’t particularly
   productive or helpful, or you’d like to change something about them, don’t
   hesitate to bring this up with your manager.
 
@@ -2237,9 +2241,9 @@ challenges they experience at work, but sometimes we want to only talk to people
 whose experiences more closely resemble our own. To enable that, we have created
 a number of private channels:
 
-- #identity-lgbtqia-plus (contact a member of @identity-lgbtqia-plus-admins to
+* \#identity-lgbtqia-plus (contact a member of @identity-lgbtqia-plus-admins to
   join)
-- #identity-gender-minority (contact a member of
+* \#identity-gender-minority (contact a member of
   @identity-gender-minority-admins to join)
 
 Anyone can create a new one by creating the private channel, creating a user
@@ -2365,10 +2369,10 @@ The hiring lead works with HR to create a plan for hiring using
 [the hiring doc template](https://docs.google.com/document/d/1oN961FE41BWPyrVrPbHCES2D78eB0nbVp7dxZzHkMb8/edit).
 This includes planning for each stage of recruitment by doing the following;
 
-- set up the roles in [Applied](https://www.beapplied.com/) where we manage the
+* set up the roles in [Applied](https://www.beapplied.com/) where we manage the
   hiring process
-- write our sifting and interview questions, and their review guides
-- work out who will be part of the hiring team and try to make sure that
+* write our sifting and interview questions, and their review guides
+* work out who will be part of the hiring team and try to make sure that
   interview panels are diverse
 
 ##### Writing a job description
@@ -2398,10 +2402,10 @@ We also always advertise on specialist jobs boards as relevant. We have a budget
 to advertise roles and encourage hiring leads to think about how they could use
 this to attract more diverse applicants. We use the following job boards:
 
-- [Hustle Crew](https://www.hustlecrew.co/)
-- [Coding Black Females](https://codingblackfemales.com/)
-- [Ada's List](https://www.adaslist.co/)
-- [Escape the City](https://www.escapethecity.org/)
+* [Hustle Crew](https://www.hustlecrew.co/)
+* [Coding Black Females](https://codingblackfemales.com/)
+* [Ada's List](https://www.adaslist.co/)
+* [Escape the City](https://www.escapethecity.org/)
 
 We typically don’t use recruiters.
 
@@ -2446,7 +2450,7 @@ stage.
 If a candidate is not being taken to the next stage, we will provide detailed
 feedback from the interview.
 
-##### Simulating a work day [some roles only]
+##### Simulating a work day \[some roles only]
 
 A simulated work day is a 2-3 hour activity based on a real world problem or
 task. We use this to make sure that a candidate is capable of taking on a role.
@@ -2559,8 +2563,7 @@ by these principles.
 
    We demonstrate fairness, integrity, and resilience, and build trust with our
    actions.
-
-1. **Look after people**
+2. **Look after people**
 
    Leaders at dxw promote the wellbeing of individuals, teams and communities.
    We encourage a supportive culture and inclusive working arrangements. We
@@ -2569,8 +2572,7 @@ by these principles.
 
    We support and defend colleagues in difficult situations. We identify and
    deal with poor performance and bad behaviour.
-
-1. **Take ownership**
+3. **Take ownership**
 
    Leaders at dxw welcome responsibility and accountability. We’re proactive,
    pick up things that need doing without being asked and push to finish the job
@@ -2578,16 +2580,14 @@ by these principles.
 
    We’re the first to admit mistakes, apologise when wrong and learn for next
    time.
-
-1. **Deliver for clients**
+4. **Deliver for clients**
 
    Leaders at dxw understand how to deliver value for each client and create the
    conditions for dxw to do brilliant work. We are not afraid to challenge
    clients or ask difficult questions.
 
    We think commercially and push dxw to grow and strengthen as a business.
-
-1. **Provide clarity**
+5. **Provide clarity**
 
    Leaders at dxw communicate clearly and concisely through the right channel.
    We question any decisions, goals or explanations that are vague or ambiguous
@@ -2595,8 +2595,7 @@ by these principles.
 
    We’re open, honest and straightforward in what we say and write. And we
    provide specific, understandable and useful feedback.
-
-1. **Make good decisions**
+6. **Make good decisions**
 
    Leaders at dxw use evidence and judgement to make good decisions. We know
    that timely decisions are important, so we don’t procrastinate or fudge. We
@@ -2605,16 +2604,14 @@ by these principles.
    We consult broadly, seek out contrary opinions, and listen to quieter voices.
    We make sure we can explain our decisions, with context, rationale and
    evidence.
-
-1. **Point the way**
+7. **Point the way**
 
    Leaders at dxw share an inspiring vision for the future of dxw, and each
    individual’s part in it.
 
    On client and dxw projects, we make sure that colleagues understand the
    outcomes we want to achieve and the value that they will create.
-
-1. **Build the future**
+8. **Build the future**
 
    Leaders at dxw hire great people. We actively look for the widest range of
    candidates to strengthen our diversity.
@@ -2640,29 +2637,24 @@ The strategy team apply these principles to our work.
 
    We facilitate activities to help organisations make good decisions,
    prioritise and create the momentum for change.
-
-1. **Focus on impact and sustainable change**
+2. **Focus on impact and sustainable change**
 
    We’re here to create significant long-term change. We won’t get involved if
    we don’t believe that’s possible.
-
-1. **Question the brief**
+3. **Question the brief**
 
    Before starting delivery we interrogate the brief to make sure it is clear,
    realistic and provides the foundation for delivery teams to start work.
-
-1. **Meet organisational goals as well as user needs**
+4. **Meet organisational goals as well as user needs**
 
    We help organisations clarify their goals and set up the right measures to
    track performance and progress. So they can deliver better services for the
    people who need them.
-
-1. **Use methods that work**
+5. **Use methods that work**
 
    We use established methods where we can, or develop new ones where we need
    to.
-
-1. **Create the conditions to deliver**
+6. **Create the conditions to deliver**
 
    We set up teams to deliver and keep improving once we’re gone.
 
@@ -2714,16 +2706,14 @@ Product managers at dxw follow these principles.
 
    Communicating the vision and goals for a project through a clear and
    well-maintained roadmap is a core part of product management.
-
-1. **Define and defend scope**
+2. **Define and defend scope**
 
    Getting agreement from everyone involved is crucial to successful delivery.
 
    Product managers should set the direction at the start of a project, and
    continue to articulate, communicate and defend the scope throughout, so that
    the team can focus on delivering.
-
-1. **Convert insight into action**
+3. **Convert insight into action**
 
    User research helps inform our objectives, goals, and priorities by telling
    us more about the problems users are having with the current state, or the
@@ -2735,8 +2725,7 @@ Product managers at dxw follow these principles.
 
    Product managers help the team to work together, across disciplines, to
    identify potential solutions before choosing a way forward.
-
-1. **Have a service mindset**
+4. **Have a service mindset**
 
    Product managers recognise that a digital product is often not the whole
    solution to a problem, and that the people operating a new service day to day
@@ -2744,30 +2733,26 @@ Product managers at dxw follow these principles.
 
    We think about the processes and systems around a product, including how
    those might change.
-
-1. **Communicate clearly how short term outcomes contribute to long term goals**
+5. **Communicate clearly how short term outcomes contribute to long term goals**
 
    Product managers need to own and articulate a vision that is consistent and
    meaningful to everyone with an interest in the project, from the delivery
    team all the way through to the most senior stakeholders, and users.
-
-1. **Be present, collaborative, and consistent**
+6. **Be present, collaborative, and consistent**
 
    Being available to the team to discuss the unexpected and share in the
    decision making is central to building empowered and protected teams.
 
    Product managers should regularly and actively communicate, review and defend
    our decisions - especially the unplanned or unexpected ones.
-
-1. **Maintain a focus on outcomes**
+7. **Maintain a focus on outcomes**
 
    In the midst of delivery, key dates can loom large, and teams can be diverted
    onto things which seem urgent but aren‘t important.
 
    Product managers must help teams and stakeholders remain focused on outcomes
    over outputs, facilitating discussion and making space for reflection.
-
-1. **Lead without authority**
+8. **Lead without authority**
 
    Product managers shouldn‘t be bottlenecks. Product managers and delivery
    leads work together to build skilled multidisciplinary teams and create the
@@ -2775,8 +2760,7 @@ Product managers at dxw follow these principles.
 
    Product managers are open to new tools, techniques and approaches, working
    with teams to find what works.
-
-1. **Take blame, give credit away**
+9. **Take blame, give credit away**
 
    Good product managers leave their ego at the door, taking negative feedback
    on board whilst ensuring the team are rightly recognised for their work and
@@ -2785,27 +2769,24 @@ Product managers at dxw follow these principles.
    Being kind is more important than being right - it‘s a good rule of thumb to
    enter every conversation without assuming that you already know most, or
    best.
+10. **Strong opinions, softly held**
 
-1. **Strong opinions, softly held**
+    Product managers make the best decisions based on the available information
+    with confidence, staying open to the possibility that things could change
+    when more information is available in the future.
 
-   Product managers make the best decisions based on the available information
-   with confidence, staying open to the possibility that things could change
-   when more information is available in the future.
+    Product managers communicate the trade-offs they’re making and the rationale
+    for their decisions so that teams can understand how a decision was reached,
+    even when they don’t agree.
+11. **Set clear priorities**
 
-   Product managers communicate the trade-offs they’re making and the rationale
-   for their decisions so that teams can understand how a decision was reached,
-   even when they don’t agree.
+    Product managers work with the team, stakeholders and users to define
+    priorities, and ensure these are clear.
+12. **Measure outcomes**
 
-1. **Set clear priorities**
-
-   Product managers work with the team, stakeholders and users to define
-   priorities, and ensure these are clear.
-
-1. **Measure outcomes**
-
-   Product managers facilitate and work with service designers and business
-   analysts to work out key metrics and goals for the product and work with the
-   team to define roadmaps to achieve these goals.
+    Product managers facilitate and work with service designers and business
+    analysts to work out key metrics and goals for the product and work with the
+    team to define roadmaps to achieve these goals.
 
 Hat tip to
 [Ross Ferguson](https://medium.com/@rossferg/the-principles-that-make-me-a-better-product-manager-9e50814d184f)
@@ -2833,8 +2814,7 @@ and working with, not for our clients.
    We are facilitators, not gatekeepers. We actively involve our colleagues and
    clients in research. And openly share what we do, how we do it and why it‘s
    important.
-
-1. **Find the truth. Tell the truth**
+2. **Find the truth. Tell the truth**
 
    Researchers at dxw create strong evidence and reliable answers so our teams
    can act with confidence. We are bold and focus on what‘s most important.
@@ -2846,15 +2826,13 @@ and working with, not for our clients.
    [Dana Chisnell](https://twitter.com/danachis/status/802930860030918656) and
    the [United States Digital Service](https://www.usds.gov/mission) for this
    one)
-
-1. **Take ethics seriously**
+3. **Take ethics seriously**
 
    Researchers at dxw know that the safety and trust of participants is our
    responsibility. We think about the ethics of our research at every step. From
    how we recruit participants and get their informed consent, through how we
    store and use the data we collect, to how we share our findings.
-
-1. **Be methodical, but not rigid**
+4. **Be methodical, but not rigid**
 
    Researchers at dxw know that the quality of our findings depends on the
    quality of our methods. We use tried and tested methods, and take time to
@@ -2863,25 +2841,21 @@ and working with, not for our clients.
    But we also understand that context is important. So we use the best approach
    for the question at hand and adapt our ways of working to fit the client and
    the project.
-
-1. **Learn, share and adapt**
+5. **Learn, share and adapt**
 
    Researchers at dxw work in an agile way. We do research and analysis in small
    batches so we can continuously share and adapt to what we learn.
-
-1. **Make research inclusive**
+6. **Make research inclusive**
 
    Researchers at dxw know how important it is that public services work for all
    the people who need to use them. We help teams understand the needs of all
    their users, and do research activities that everyone can participate in.
-
-1. **Build on existing evidence**
+7. **Build on existing evidence**
 
    Researchers at dxw help clients build on the knowledge and data they already
    have. We combine existing knowledge, poorly understood data and new research
    into a coherent picture.
-
-1. **Accept and admit constraints**
+8. **Accept and admit constraints**
 
    Researchers at dxw do the best research we can within the constraints we
    have. We acknowledge and share the limits of our research and our findings.
@@ -2916,66 +2890,56 @@ Designers at dxw follow these principles:
    Take into account, and value highly, the input of others in the design
    process. While we are ultimately responsible for design in a delivery team,
    we don’t work in isolation.
-
-1. **Value clarity in everything we do**
+2. **Value clarity in everything we do**
 
    Use plain language in interfaces, writing and conversation.
-
-1. **Overlap with other disciplines**
+3. **Overlap with other disciplines**
 
    Work closely with people that have different skills to you, in the knowledge
    that different perspectives make our decisions stronger and elevate our work.
-
-1. **Communicate constantly**
+4. **Communicate constantly**
 
    Never go missing. Our teammates always understand what we’re doing and why,
    because we’re all aiming for the same outcome.
-
-1. **Know we are not the user**
+5. **Know we are not the user**
 
    Do not assume to know how users of our services think or act. We acknowledge
    that things such as genetics, upbringing, religious and geographical culture,
    and past experiences make us all different. We work closely with our user
    researchers to gain understanding and insight about the people that use the
-   things we design. _“One accurate measurement is worth more than a thousand
-   expert opinions.”_ ~ Grace Hopper
-
-1. **Be educators**
+   things we design. *“One accurate measurement is worth more than a thousand
+   expert opinions.”* ~ Grace Hopper
+6. **Be educators**
 
    Know that being open about our work, and helping others to understand our
    decisions and why we make them, benefits everybody.
-
-1. **Be kind**
+7. **Be kind**
 
    Be tolerant, understanding, empathetic and compassionate. Look for
    opportunities to help and care for others. Putting people at the centre of
    everything will help you be a better designer.
-
-1. **Embrace questions**
+8. **Embrace questions**
 
    Understand that when people ask questions and give feedback it is to make
    something better. If we can not articulate our decisions then we may not have
    made the best choice.
-
-1. **Ask questions**
+9. **Ask questions**
 
    Always ask questions and seek the truth; when we understand the problem we
    can solve it. When things seem muddy take a step back and try and find the
-   original intent or gaps in understanding. _“If I had an hour to solve a
+   original intent or gaps in understanding. *“If I had an hour to solve a
    problem I’d spend 55 minutes thinking about the problem and five minutes
-   thinking about solutions.”_ ~ Albert Einstein
+   thinking about solutions.”* ~ Albert Einstein
+10. **Always assume the best intent**
 
-1. **Always assume the best intent**
+    We are passionate about what we do, but we are a team. When you have
+    difficult conversations or feedback we should always assume that it is coming
+    from a good place.
+11. **Tell stories**
 
-   We are passionate about what we do, but we are a team. When you have
-   difficult conversations or feedback we should always assume that it is coming
-   from a good place.
-
-1. **Tell stories**
-
-   When we talk about our work and why we do what we do, do not just state the
-   facts. Inject some humanity into it; turn it into a story with a beginning, a
-   middle, and an end.
+    When we talk about our work and why we do what we do, do not just state the
+    facts. Inject some humanity into it; turn it into a story with a beginning, a
+    middle, and an end.
 
 ### Development
 
@@ -2990,8 +2954,7 @@ Designers at dxw follow these principles:
 
    Ultimately, it’s about the user and their needs, not about technology.
    Sometimes software is not the answer.
-
-1. **Own your code, but collaborate**
+2. **Own your code, but collaborate**
 
    Having the opportunity to see a piece of work through to completion is a
    great way to get stuff done, and for developers to grow. Take ownership of
@@ -3005,13 +2968,11 @@ Designers at dxw follow these principles:
    increase the shared knowledge of our products. Request feedback, ask
    questions and discuss code, but ultimately the author is responsible for
    making changes.
-
-1. **Security is a user need**
+3. **Security is a user need**
 
    Sometimes the simplest or easiest solution is not the most secure, and we
    fight for our user’s safety and security, even when a client doesn’t agree.
-
-1. **Use simple, conventional technology**
+4. **Use simple, conventional technology**
 
    By default, use straightforward technology and conventional approaches. The
    services we built have to be maintained and iterated on by small, and
@@ -3020,8 +2981,7 @@ Designers at dxw follow these principles:
 
    Vary from convention only on the domain specific stuff, where it adds the
    most value.
-
-1. **Build for quality and consistency**
+5. **Build for quality and consistency**
 
    Think about those who come after us. We build high quality systems with the
    lowest possible maintenance burden. We write tests, use linters, follow
@@ -3030,14 +2990,12 @@ Designers at dxw follow these principles:
 
    All code we write should be reviewed by at least one peer. This helps us ship
    safer and higher quality code.
-
-1. **Improve with each iteration**
+6. **Improve with each iteration**
 
    Always leave the codebase in a slightly better place than when you found it.
    Look for opportunities to refactor difficult code, to improve documentation,
    or to extract shared functionality.
-
-1. **Communicate clearly and frequently**
+7. **Communicate clearly and frequently**
 
    Help our future selves and others by recording the reasons for our actions.
    Explain the changes you’re making to code through your commit messages and
@@ -3058,15 +3016,14 @@ Designers at dxw follow these principles:
    similar) and when on support we use Zendesk tickets. Tracking our work help
    us to:
 
-   - visualise our progress
-   - document and share progress with clients and stakeholders
-   - be confident what we should be working on
-   - react to blockers and bottlenecks
-   - see what each other is responsible for and opportunities to help or avoid
+   * visualise our progress
+   * document and share progress with clients and stakeholders
+   * be confident what we should be working on
+   * react to blockers and bottlenecks
+   * see what each other is responsible for and opportunities to help or avoid
      duplicating effort
-   - reference commits back to their original user needs
-
-1. **Be humble, supportive and open minded**
+   * reference commits back to their original user needs
+8. **Be humble, supportive and open minded**
 
    Assume other people on your team know things you don’t. Feel comfortable
    saying “I don’t know”.
@@ -3080,8 +3037,7 @@ Designers at dxw follow these principles:
 
    Be non-judgemental – assume everyone did the best they could at the time,
    with what they knew and the resources available.
-
-1. **Always learning. Always teaching**
+9. **Always learning. Always teaching**
 
    Technology never stops, and the amount to know even for our limited stack is
    huge, so we must learn and share. We teach each other through peer mentoring,
@@ -3092,43 +3048,41 @@ Designers at dxw follow these principles:
 
    All code we write should be reviewed by at least one peer. This helps us
    learn new skills and build shared understanding.
+10. **Do the smallest amount of good work**
 
-1. **Do the smallest amount of good work**
+    We aspire to regularly ship good code, and deliver it to the users as often
+    as possible. Delivering impact fast by shipping something real has a big
+    impact on the morale of the team and happiness of our clients and users.
 
-   We aspire to regularly ship good code, and deliver it to the users as often
-   as possible. Delivering impact fast by shipping something real has a big
-   impact on the morale of the team and happiness of our clients and users.
+    Solving many problems at once can lead to large pull requests and large
+    commits. This work tends to take a lot longer to understand, code review,
+    amend and then ship safely. Additionally it can make work hard to parallelise
+    as it may block other dependant work from starting. It also tends to
+    introduce more bugs that require more follow-up fixes.
 
-   Solving many problems at once can lead to large pull requests and large
-   commits. This work tends to take a lot longer to understand, code review,
-   amend and then ship safely. Additionally it can make work hard to parallelise
-   as it may block other dependant work from starting. It also tends to
-   introduce more bugs that require more follow-up fixes.
+    Where you can, do less and deliver it sooner. Break down work into smaller
+    pieces. Descope anything that isn’t critical for a first version. Do a
+    minimum slice that works for some of your users. Anything to reduce the time
+    between getting started on something and delivering it to users.
 
-   Where you can, do less and deliver it sooner. Break down work into smaller
-   pieces. Descope anything that isn’t critical for a first version. Do a
-   minimum slice that works for some of your users. Anything to reduce the time
-   between getting started on something and delivering it to users.
+    Work at a pace that suits the project. Hacky is sometimes fine. If you’re
+    working on prototypes then do only what you need to answer your questions.
+    Sometimes, if you’re working on critical production systems, you’ll have to
+    go slower. When that’s the case, it’s even more important to break down the
+    work into the smallest reasonable chunks, to demonstrate progress, to make
+    reviewing the changes as easy as possible, and to prove your assumptions.
+11. **Work in the open**
 
-   Work at a pace that suits the project. Hacky is sometimes fine. If you’re
-   working on prototypes then do only what you need to answer your questions.
-   Sometimes, if you’re working on critical production systems, you’ll have to
-   go slower. When that’s the case, it’s even more important to break down the
-   work into the smallest reasonable chunks, to demonstrate progress, to make
-   reviewing the changes as easy as possible, and to prove your assumptions.
+    Be open by default. Code should be public unless there’s a good reason
+    otherwise. Changes to open source libraries should be contributed back to the
+    project. Dashboards should be public wherever reasonable.
 
-1. **Work in the open**
-
-   Be open by default. Code should be public unless there’s a good reason
-   otherwise. Changes to open source libraries should be contributed back to the
-   project. Dashboards should be public wherever reasonable.
-
-   The way we’re working should also be open to our clients. Work being done
-   should be represented in Trello boards that everyone can see. Communication
-   should be done in public Slack channels rather than direct messages. Openly
-   communicating about our work allows clients to see how we’re doing, and what
-   needs their attention, and gives everyone in the team context for the work
-   being done and decisions being made.
+    The way we’re working should also be open to our clients. Work being done
+    should be represented in Trello boards that everyone can see. Communication
+    should be done in public Slack channels rather than direct messages. Openly
+    communicating about our work allows clients to see how we’re doing, and what
+    needs their attention, and gives everyone in the team context for the work
+    being done and decisions being made.
 
 #### Career progression for developers
 
@@ -3157,23 +3111,19 @@ much as possible.
 
    Things/Mistakes happen, treat it as a learning experience rather than finding
    blame.
-
-1. **Documentation is the first step to automation**
+2. **Documentation is the first step to automation**
 
    For most tasks you need to understand it enough to document it before you can
    begin to automate it.
-
-1. **Don't be a keeper of secrets**
+3. **Don't be a keeper of secrets**
 
    Everyone should be replaceable in respect to knowledge. It's everyone's
    responsibility to share what they know (eg. Pairing)
-
-1. **No heroics - Don't internalise problems**
+4. **No heroics - Don't internalise problems**
 
    Situations occur where there is pressure to deliver/maintain/fix, it's a team
    effort, not always the same person's job.
-
-1. **Be patient**
+5. **Be patient**
 
    Be helpful, not obstructive. It’s easy to get frustrated by things in time
    sensitive situations – don’t!
@@ -3190,47 +3140,35 @@ uphold its values.
 1. We deliver the dxw business plan. In particular, we recruit the best people
    to meet our mission, manage our finances to allow sustainable growth, and
    track performance of objectives to measure ourselves.
-
-1. We are the front door for staff and clients. We help, support and enable dxw
+2. We are the front door for staff and clients. We help, support and enable dxw
    to meet its mission and uphold its values. We do this by being empathetic and
    put people over process.
-
-1. As commercial experts we take the burden away from our delivery teams, and
+3. As commercial experts we take the burden away from our delivery teams, and
    make sure our people, as well as our suppliers get paid, whilst also ensuring
    our clients pay us on time.
-
-1. The unit of delivery is always the team, so we ensure staff wellbeing by
+4. The unit of delivery is always the team, so we ensure staff wellbeing by
    providing a safe and inclusive environment. We also support our people to
    thrive in all stages of their careers, ensuring they have chance to
    continually learn, as well as excellent facilities and the right tools to
    enable them to succeed in their careers.
-
-1. We ensure dxw is compliant with all the relevant company and employment
+5. We ensure dxw is compliant with all the relevant company and employment
    regulations, ensuring we have ISO 27001 accreditation, abide by GDPR
    guidelines and insurance.
-
-1. Commercial and business operations can be thankless, but to manage
+6. Commercial and business operations can be thankless, but to manage
    expectations we remain resilient and take responsibility for our work by
    effectively communicating about what we do and why we do it.
 
 ##### Behaviours
 
 1. Empathetic to our users / staff / suppliers / clients.
-
-1. Support each other to support the team.
-
-1. Commercial accuracy and responsibility.
-
-1. We are balanced, organised and resilient.
-
-1. People over process, to maintain our unique, small-company, culture.
-
-1. We are proud of what we do and are confident enough to talk about it.
-
-1. We manage expectations by taking responsibility for our work and
+2. Support each other to support the team.
+3. Commercial accuracy and responsibility.
+4. We are balanced, organised and resilient.
+5. People over process, to maintain our unique, small-company, culture.
+6. We are proud of what we do and are confident enough to talk about it.
+7. We manage expectations by taking responsibility for our work and
    communicating what we do and why.
-
-1. We _are_ the company values.
+8. We *are* the company values.
 
 ### Sales and marketing
 
@@ -3249,8 +3187,7 @@ The sales and marketing teams at dxw follow these principles:
 
    We work closely with our delivery team so we can be open with clients about
    who will be available to do the work and realistic delivery timescales.
-
-1. **Build positive relationships**
+2. **Build positive relationships**
 
    We work in partnership with our clients, and are open and transparent at all
    times.
@@ -3263,8 +3200,7 @@ The sales and marketing teams at dxw follow these principles:
    experience of working with us. We listen to what they’re telling us - about
    what’s going well and what we need to do differently - and constantly work to
    improve things.
-
-1. **Find the right work**
+3. **Find the right work**
 
    We welcome new opportunities, and actively seek input from the dxw team to
    help us decide whether an opportunity is ‘dxw shaped’.
@@ -3275,16 +3211,14 @@ The sales and marketing teams at dxw follow these principles:
    We will only take on work that’s a good fit for the team - that won’t put us
    under undue strain, where our team will be safe and we can have a positive
    relationship with our client.
-
-1. **Show the work and the team**
+4. **Show the work and the team**
 
    We’re an active part of the digital and tech community that’s working to
    build better public services.
 
    We talk openly about what we’re doing and why, what we’re learning along the
    way and share our ideas and expertise. We blog all the time.
-
-1. **Have a clear voice**
+5. **Have a clear voice**
 
    Whenever we communicate - online or face-to-face - we’re always clear, to the
    point, friendly, and professional. You can rely on us to say it like it is.
@@ -3292,8 +3226,7 @@ The sales and marketing teams at dxw follow these principles:
    We champion the things that matter to us and our clients. We’re bold and
    pragmatic and seek to influence change for the better in the way public
    services are created and delivered.
-
-1. **Communicate with a purpose**
+6. **Communicate with a purpose**
 
    When we communicate, it’s to explain what we’re doing and the impact of our
    work so our clients and potential clients understand our areas of expertise
