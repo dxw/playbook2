@@ -136,11 +136,16 @@ strong {
 .dropdown__title {
   background-color: transparent;
   border: none;
-  font-family: inherit;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
 }
 
-nav {
-  background-color: $cream;
+.app-nav {
+  background-color: $accent-b;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  text-align: right;
+
   padding: 0 1rem;
   display: grid;
   text-align: right;
