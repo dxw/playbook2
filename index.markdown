@@ -5,7 +5,7 @@ title: dxw's Playbook
 
 dxw is an employee owned digital agency that works with the public and third sectors.
 
-Since 2008, we’ve worked in partnership with our clients to improve people’s
+Since 2009, we’ve worked in partnership with our clients to improve people’s
 lives by designing, building, running, and improving digital public services. We
 support the public sector teams we work with to build their own digital
 capability and take an iterative user-centred approach to service design.
