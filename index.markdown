@@ -1014,10 +1014,9 @@ printer - there is a Slack channel for it. If in doubt, please speak to the
 Commercial Operations team and they’ll point you in the right direction.
 
 ```
-#help-facilities
 #help-purchasing
 #help-travel
-#help-techsupport
+#help-internal-techsupport
 ```
 
 #### Claiming expenses
