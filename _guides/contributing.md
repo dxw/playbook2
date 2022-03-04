@@ -15,14 +15,15 @@ You will need a GitHub account. If you don't already have one, then [sign up her
 
 1. Click on the yellow 'Contribute' link
 2. If you are not logged in, you need to log in with your GitHub account
-3. Choose the page you want to edit.
+3. If you are asked if you want to 'fork the repo', you do.
+4. Choose the page you want to edit.
 
    * If it is the homepage, then click 'Index page'
    * If it is one of the guides, click 'Guides' under 'Collections', and then click the guide you want to edit
    * If you want to create a new guide, click 'Guides' under 'Collections', then click the 'New Guides' button.
-4. Make your edits in the 'Rich Text' editor.
-5. Click 'Save' at the top of the page
-6. Click 'Status: Draft' and choose 'In review'
+5. Make your edits in the 'Rich Text' editor.
+6. Click 'Save' at the top of the page
+7. Click 'Status: Draft' and choose 'In review'
 
 Your suggested changes will not be live yet. Your suggestions should be available to view on the [GitHub Pull Requests page](https://github.com/dxw/playbook2/pulls). After a few minutes, you should be able to view a preview of the Playbook with your changes by clicking on the URL next to '😎 Browse the preview'
 
